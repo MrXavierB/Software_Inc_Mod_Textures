@@ -1,0 +1,166 @@
+<Floor>
+	<XavAluminiumFloor>
+		<Category>Floor</Category>
+		<Base>Aluminium_Floor.png</Base>	
+	</XavAluminiumFloor>
+	
+	<Fllor_Yellow_Ceramic>
+		<Category>Floor</Category>
+		<Base>Fllor_Yellow_Ceramic.png</Base>	
+	</Fllor_Yellow_Ceramic>
+	
+	<Fllor_Old_Wood>
+		<Category>Floor</Category>
+		<Base>Fllor_Old_Wood.png</Base>	
+	</Fllor_Old_Wood>
+
+	<Floor_Ceramix_Mix>
+		<Category>Floor</Category>
+		<Base>Floor_Ceramix_Mix.png</Base>	
+	</Floor_Ceramix_Mix>
+
+	<Floor_Ceramix_Beige>
+		<Category>Floor</Category>
+		<Base>Floor_Ceramix_Beige.png</Base>	
+	</Floor_Ceramix_Beige>
+	
+	<Floor_Natural_Stone>
+		<Category>Floor</Category>
+		<Base>Floor_Natural_Stone.png</Base>	
+	</Floor_Natural_Stone>	
+	
+	<Floor_Dark_Wood>
+		<Category>Floor</Category>
+		<Base>Floor_Dark_Wood.png</Base>	
+	</Floor_Dark_Wood>	
+	
+	<Floor_Dark_Wood2>
+		<Category>Floor</Category>
+		<Base>Floor_Dark_Wood2.png</Base>	
+	</Floor_Dark_Wood2>		
+	
+	<Floor_Dark_Wood3>
+		<Category>Floor</Category>
+		<Base>Floor_Dark_Wood3.png</Base>	
+	</Floor_Dark_Wood3>		
+	
+	<Floor_Stones>
+		<Category>Floor</Category>
+		<Base>Floor_Stones.png</Base>	
+	</Floor_Stones>		
+	
+	<Fllor_Wodd_Light>
+		<Category>Floor</Category>
+		<Base>Fllor_Wodd_Light.png</Base>	
+	</Fllor_Wodd_Light>			
+	
+	<Fllor_Wodd_Normal>
+		<Category>Floor</Category>
+		<Base>Fllor_Wodd_Normal.png</Base>	
+	</Fllor_Wodd_Normal>			
+	
+	<Fllor_Wodd_Natural>
+		<Category>Floor</Category>
+		<Base>Fllor_Wodd_Natural.png</Base>	
+	</Fllor_Wodd_Natural>	
+
+	<Floor_Wodd_Dark>
+		<Category>Floor</Category>
+		<Base>Floor_Wodd_Dark.png</Base>	
+	</Floor_Wodd_Dark>	
+	
+	<Floor_Wood_Square>
+		<Category>Floor</Category>
+		<Base>Floor_Wood_Square.png</Base>	
+	</Floor_Wood_Square>	
+	
+	<Floor_Tile_Cement>
+		<Category>Floor</Category>
+		<Base>Floor_Tile_Cement.png</Base>	
+	</Floor_Tile_Cement>
+
+	<Floor_Tile_White_Marble>
+		<Category>Floor</Category>
+		<Base>Floor_Tile_White_Marble.png</Base>	
+	</Floor_Tile_White_Marble>
+	
+	<Floor_Tile_Black_Ceramic>
+		<Category>Floor</Category>
+		<Base>Floor_Tile_Black_Ceramic.png</Base>	
+	</Floor_Tile_Black_Ceramic>
+	
+	<Floor_Tile_Creme_Ceramic>
+		<Category>Floor</Category>
+		<Base>Floor_Tile_Creme_Ceramic.png</Base>	
+	</Floor_Tile_Creme_Ceramic>
+	
+	<Floor_Tile_Grey_Ceramic>
+		<Category>Floor</Category>
+		<Base>Floor_Tile_Grey_Ceramic.png</Base>	
+	</Floor_Tile_Grey_Ceramic>	
+	
+	<Floor_Tile_Orange_Ceramic>
+		<Category>Floor</Category>
+		<Base>Floor_Tile_Orange_Ceramic.png</Base>	
+	</Floor_Tile_Orange_Ceramic>	
+
+	<Floor_Tile_Creme2_Ceramic>
+		<Category>Floor</Category>
+		<Base>Floor_Tile_Creme2_Ceramic.png</Base>	
+	</Floor_Tile_Creme2_Ceramic>	
+	
+	<Floor_Tile_Marble_White>
+		<Category>Floor</Category>
+		<Base>Floor_Tile_Marble_White.png</Base>	
+	</Floor_Tile_Marble_White>	
+
+	<Floor_Tile_Marble_Yellow>
+		<Category>Floor</Category>
+		<Base>Floor_Tile_Marble_Yellow.png</Base>	
+	</Floor_Tile_Marble_Yellow>
+	
+	<Floor_Tile_Marble_beige>
+		<Category>Floor</Category>
+		<Base>Floor_Tile_Marble_beige.png</Base>	
+	</Floor_Tile_Marble_beige>
+	
+	<Floor_Tile_Marble_Black>
+		<Category>Floor</Category>
+		<Base>Floor_Tile_Marble_Black.png</Base>	
+	</Floor_Tile_Marble_Black>
+
+	<Floor_Red_Carpet>
+		<Category>Floor</Category>
+		<Base>Floor_Red_Carpet.png</Base>	
+	</Floor_Red_Carpet>
+	
+	<Floor_Grey_Carpet>
+		<Category>Floor</Category>
+		<Base>Floor_Grey_Carpet.png</Base>	
+	</Floor_Grey_Carpet>
+	
+	<Floor_Grass1>
+		<Category>Floor</Category>
+		<Base>Floor_Grass1.png</Base>	
+	</Floor_Grass1>
+
+	<Floor_Grass2>
+		<Category>Floor</Category>
+		<Base>Floor_Grass2.png</Base>	
+	</Floor_Grass2>
+	
+	<Floor_Grass3>
+		<Category>Floor</Category>
+		<Base>Floor_Grass3.png</Base>	
+	</Floor_Grass3>
+
+	<Floor_Tile_Granite_1>
+		<Category>Floor</Category>
+		<Base>Floor_Tile_Granite_1.png</Base>	
+	</Floor_Tile_Granite_1>
+	
+	<Floor_Tile_1>
+		<Category>Floor</Category>
+		<Base>Floor_Tile_1.png</Base>	
+	</Floor_Tile_1>
+</Floor>
